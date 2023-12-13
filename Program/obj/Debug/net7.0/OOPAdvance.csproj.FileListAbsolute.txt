@@ -1,0 +1,14 @@
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.exe
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.deps.json
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.runtimeconfig.json
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\bin\Debug\net7.0\OOPAdvance.pdb
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.GeneratedMSBuildEditorConfig.editorconfig
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfoInputs.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.AssemblyInfo.cs
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.csproj.CoreCompileInputs.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\refint\OOPAdvance.dll
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.pdb
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\OOPAdvance.genruntimeconfig.cache
+D:\All_programming\All C#_code\Program\Program\obj\Debug\net7.0\ref\OOPAdvance.dll
